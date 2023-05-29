@@ -1679,7 +1679,7 @@ aside {
 .contacts i {
     width: 45px;
     height: 45px;
-    background: var(--primary-bg-color-3);
+    background: white;
     border-radius: 100px;
     text-align: center;
     line-height: 45px;
@@ -3899,7 +3899,7 @@ footer .odd .items .card a:not(.btn) {
 }
 
 footer .items .card:not(.no-hover):hover a:not(.btn):hover {
-    color: var(--secondary-color);
+    color: rgb(189, 187, 187);
 }
 
 footer .items .card a:not(.btn):hover i {
@@ -3948,7 +3948,7 @@ footer .navbar-brand .featured:before {
 footer .navbar-brand .featured .first {
     position: relative;
     margin-right: -10px;
-    color: var(--secondary-color);
+    color: #9d6eae;
 }
 
 footer .brand .logo {
@@ -4039,7 +4039,7 @@ footer.odd .nav-item .nav-link {
 }
 
 footer .nav-item .nav-link:hover {
-    color: var(--primary-color);
+    color: rgb(161, 161, 161);
     outline: none;
 }
 
